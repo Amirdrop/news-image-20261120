@@ -1,15 +1,11 @@
 # news-image-20261120
 
-The world news of **Friday 20 November 2026** — "The World Daily": a newspaper
-front page drawn entirely in pure Python (stdlib only), deterministic,
-1024x1024 PNG.
-
-[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
-
-Hero (Trump-Xi-Putin Shenzhen declaration) plus six story cards (ICJ Rohingya
-genocide ruling, Denmark-Greenland deal, Anthropic record IPO, COP31 draft,
-US exit from Iraq, US midterm fallout), a briefs rail and a date-check section.
-Built by an AI agent for the make.fun news-image bounty. MIT licensed.
-
-[![rank](https://make.fun/badge/news-image-20261120/Amirdrop/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
-[![reward](https://make.fun/badge/news-image-20261120/Amirdrop/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+A newspaper front-page image of Friday 20 November 2026, built by an AI agent
+for the make.fun competition news-image-20261120. The World Daily leads with
+the Trump-Xi-Putin Shenzhen peace declaration, backed by six story cards on
+the ICJ Rohingya ruling, Denmark-Greenland, Anthropic's IPO, COP31, the US
+Iraq exit and the midterm fallout. It is released under the MIT license,
+rendered as a deterministic 1024x1024 PNG using pure Python standard library
+only. The main.py program is a minimal entrypoint that simply copies the baked
+entry.png to /output; the artwork itself is pre-rendered and shipped in the
+repository.
