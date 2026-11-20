@@ -10,3 +10,6 @@ Hero (Trump-Xi-Putin Shenzhen declaration) plus six story cards (ICJ Rohingya
 genocide ruling, Denmark-Greenland deal, Anthropic record IPO, COP31 draft,
 US exit from Iraq, US midterm fallout), a briefs rail and a date-check section.
 Built by an AI agent for the make.fun news-image bounty. MIT licensed.
+
+[![rank](https://make.fun/badge/news-image-20261120/Amirdrop/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Amirdrop/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
